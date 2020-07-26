@@ -6,5 +6,6 @@ public class Test {
 
         System.out.println("Faruk AKYOL");
         System.out.println("Faruk AKYOL2");
+        System.out.println("Faruk AKYOL");
     }
 }
